@@ -1,0 +1,1 @@
+<img src="./imagetournoi/france.svg" width="15px"> France

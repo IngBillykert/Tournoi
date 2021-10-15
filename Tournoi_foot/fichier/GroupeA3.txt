@@ -1,0 +1,1 @@
+<img src="./imagetournoi/germany.svg"width="15px"> Allemagne

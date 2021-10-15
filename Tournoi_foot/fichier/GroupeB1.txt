@@ -1,0 +1,1 @@
+<img src="./imagetournoi/argentina.svg"width="15px"> Argentine

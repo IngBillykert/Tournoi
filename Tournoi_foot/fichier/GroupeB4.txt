@@ -1,0 +1,1 @@
+<img src="./imagetournoi/haiti.svg" width="15px"> Haiti </div>
